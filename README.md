@@ -1,1 +1,1 @@
-# Salary-predictor
+# Heroku-Demo
